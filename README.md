@@ -2,7 +2,7 @@
 Global Hack Week December Day 7: Build 2022 Day 7 Task: Build a Data Visualization
 
 ## Task Statement
-Data science is one of the fastest growing fields in tech. There are so many different ways to visualize data. It can be as simple as a graph or as complex as a piece of art. Show off your visualization on the Day 3 Devpost when you’re finished.
+Data science is one of the fastest growing fields in tech. There are so many different ways to visualize data. It can be as simple as a graph or as complex as a piece of art. Show off your visualization on the Day 7 Devpost when you’re finished.
 
 ## An Introduction
 What's the connection between a dripping faucets, the Mandelbrot set, a population of rabbits, thermal convection in a fluid, and the firing of neurons in your brain?
